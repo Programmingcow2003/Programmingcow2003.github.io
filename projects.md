@@ -187,6 +187,71 @@ This project gave me experience working with real-world visual data and applying
 
 </div>
 
+<div markdown="1" style="background:#f7f7f7; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #dddddd;">
+
+## Machine Learning Tetris Agent
+
+A machine learning project focused on training models to play Tetris using reinforcement learning and comparison models. The project explored multiple approaches, including random play, heuristic models, KNN, random forest, human-trained models, and Deep Q-Learning.
+
+The main reinforcement learning model used a Deep Q-Network to estimate action values from game states and improve through repeated gameplay. The project compared model performance using rewards, lines cleared, training behavior, and model limitations such as available compute time and training-data quality.
+
+### Features
+
+- Implemented and compared multiple Tetris-playing models
+- Tested random, heuristic, KNN, random forest, and Deep Q-Learning approaches
+- Used a reward system based on board state and lines cleared
+- Trained reinforcement learning agents through repeated gameplay
+- Compared performance using average reward and lines cleared
+- Analyzed limitations caused by compute time, training quantity, and model design
+- Presented results through graphs, screenshots, and model comparisons
+
+### Technologies
+
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Python</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">PyTorch</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Gymnasium</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Deep Q-Learning</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Reinforcement Learning</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">CNNs</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">TensorBoard</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Weights & Biases</span>
+
+### What I Learned
+
+This project helped me understand how reinforcement learning agents improve through trial and error, especially through Deep Q-Learning and reward design. I gained experience comparing different modeling approaches, interpreting training curves, and understanding how model performance depends on reward functions, compute time, environment design, and data quality.
+
+I also learned that machine learning results are not only about choosing a model, but also about designing useful rewards, collecting enough training data, tuning hyperparameters, and evaluating performance honestly.
+
+### Links
+
+<a href="PASTE_GITHUB_LINK_HERE" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
+View Code on GitHub
+</a>
+
+<details>
+<summary style="cursor:pointer; font-size:16px; font-weight:bold;">
+▶ Click to see project PDF
+</summary>
+
+<div style="margin-top:12px; padding:15px; background:white; border-radius:12px; border:1px solid #d9e3f0;">
+
+<p>
+This PDF gives a more detailed explanation of the Tetris machine learning project, including the background, base models, heuristic models, Deep Q-Learning models, result comparisons, and future work.
+</p>
+
+<iframe 
+    src="Tetris.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border:1px solid #ccc; border-radius:10px;">
+</iframe>
+
+</div>
+
+</details>
+
+</div>
+
 </details>
 
 <details>
@@ -217,7 +282,7 @@ I also gained experience breaking a concurrent program into separate responsibil
 
 ### Links
 
-<a href="https://github.com/Programmingcow2003/sheepwolf" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
+<a href="PASTE_GITHUB_LINK_HERE" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
 View Code on GitHub
 </a>
 
