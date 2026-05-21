@@ -5,12 +5,7 @@ title: About Me
 
 # About Me
 
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f4f4f4;
-margin-bottom:20px;
-">
+<div markdown="1" style="background:#f4f7fb; padding:22px; border-radius:18px; margin-bottom:24px; border:1px solid #d9e3f0;">
 
 ## Hello!
 
@@ -26,12 +21,7 @@ I have experience in:
 
 </div>
 
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f4f4f4;
-margin-bottom:20px;
-">
+<div markdown="1" style="background:#f7f7f7; padding:22px; border-radius:18px; margin-bottom:24px; border:1px solid #dddddd;">
 
 ## Outside of Technology
 
@@ -43,12 +33,7 @@ I am also an active member of my church community and enjoy spending time with f
 
 </div>
 
-<div style="
-padding:20px;
-border-radius:15px;
-background:#f4f4f4;
-margin-bottom:20px;
-">
+<div markdown="1" style="background:#f4f7fb; padding:22px; border-radius:18px; margin-bottom:24px; border:1px solid #d9e3f0;">
 
 ## Interests & Projects
 
