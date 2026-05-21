@@ -19,7 +19,7 @@ This website is a place where I share my background, technical projects, and thi
 
 <div style="flex:1; text-align:center;">
 
-<img src="cow.jpg" alt="MOOO" style="max-width:220px; width:100%; border-radius:18px; border:1px solid #d9e3f0;">
+<img src="DennisPhoto.jpg" style="max-width:220px; width:100%; border-radius:18px; border:1px solid #d9e3f0;">
 
 <p style="font-size:14px; color:#666; margin-top:8px;">
 </p>
@@ -32,7 +32,7 @@ This website is a place where I share my background, technical projects, and thi
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
 
-<a href="aboutme.md" style="
+<a href="aboutme" style="
 display:block;
 flex:1;
 min-width:220px;
@@ -57,7 +57,7 @@ Go to About Me →
 
 </a>
 
-<a href="projects.md" style="
+<a href="projects" style="
 display:block;
 flex:1;
 min-width:220px;
