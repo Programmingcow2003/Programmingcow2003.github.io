@@ -25,7 +25,7 @@ I have experience in:
 
 <div style="flex:1; text-align:center;">
 
-<img src="assets/images/profile.jpg" alt="Photo of Michael Dennis" style="max-width:220px; width:100%; border-radius:18px;">
+<img src="DennisPhoto.jpeg"  style="max-width:220px; width:100%; border-radius:18px;">
 
 </div>
 
