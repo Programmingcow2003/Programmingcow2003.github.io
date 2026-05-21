@@ -7,8 +7,6 @@ title: Home
 
 Hi, I’m Michael. This is my personal coding website.
 
-## Projects
+## Navigation
 
-- Running analysis project
-- Computer vision project
-- Portfolio projects
+- [About Me](about.md)
