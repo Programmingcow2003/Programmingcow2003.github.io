@@ -41,6 +41,9 @@ I competed in cross country and track throughout all four years of college, whic
 
 I am also an active member of my church community and enjoy spending time with family, teammates, and friends.
 
+<div style=flex:1; text-align:center;">
+<img src="finishingrace.jpg"  style="max-width:220px; width:100%; border-radius:18px;">
+</div>
 </div>
 
 <div markdown="1" style="background:#f4f7fb; padding:22px; border-radius:18px; margin-bottom:24px; border:1px solid #d9e3f0;">
