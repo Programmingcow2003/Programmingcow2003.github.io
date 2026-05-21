@@ -22,7 +22,6 @@ This website is a place where I share my background, technical projects, and thi
 <img src="cow.jpg" alt="MOOO" style="max-width:220px; width:100%; border-radius:18px; border:1px solid #d9e3f0;">
 
 <p style="font-size:14px; color:#666; margin-top:8px;">
-Replace this with a funny image.
 </p>
 
 </div>
