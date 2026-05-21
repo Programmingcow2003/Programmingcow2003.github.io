@@ -5,17 +5,55 @@ title: About Me
 
 # About Me
 
-Hello! I am Michael Dennis, a current Computer Science Student at Michigan Tech, I have expierence in
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f4f4f4;
+margin-bottom:20px;
+">
 
--Computer Vision
--Data analytics
--Software developement
--Web scraping
--Machine Learning
+## Hello!
 
+I am **Michael Dennis**, a current Computer Science student at Michigan Tech.
 
-Outside of technology I have a lot of passion for running and my community. I competed in cross country and track all four years of college, which both gave me lifelong friends and a new family along with teaching discipline, and teamwork.
+I have experience in:
 
-I am also an active member of my church community and enjoy spending time with my family, teammates, and friends!
+- Computer Vision
+- Data Analytics
+- Software Development
+- Web Scraping
+- Machine Learning
 
-I love building all types of projects although Computer Vision and Data Analysis hold a close place in my heart. Any project which relates to real-world problems is enjoyable!
+</div>
+
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f4f4f4;
+margin-bottom:20px;
+">
+
+## Outside of Technology
+
+I have a strong passion for both running and my community.
+
+I competed in cross country and track throughout all four years of college, which gave me lifelong friendships while also teaching me discipline, consistency, and teamwork.
+
+I am also an active member of my church community and enjoy spending time with family, teammates, and friends.
+
+</div>
+
+<div style="
+padding:20px;
+border-radius:15px;
+background:#f4f4f4;
+margin-bottom:20px;
+">
+
+## Interests & Projects
+
+I enjoy building all types of projects, although Computer Vision and Data Analytics hold a special place in my interests.
+
+I especially enjoy projects that solve real-world problems and turn data into meaningful insights.
+
+</div>
