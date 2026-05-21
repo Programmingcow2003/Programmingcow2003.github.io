@@ -288,7 +288,7 @@ View Code on GitHub
 
 <div style="flex:1; text-align:center;">
 
-<img src="DennisPhoto.jpg" style="max-width:220px; width:100%; border-radius:18px; border:1px solid #d9e3f0;">
+<img src="Wolfinsheepsclothes.jpg" style="max-width:220px; width:100%; border-radius:18px; border:1px solid #d9e3f0;">
 
 <p style="font-size:14px; color:#666; margin-top:8px;">
 </p>
