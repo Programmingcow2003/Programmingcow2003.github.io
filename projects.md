@@ -127,7 +127,7 @@ This project helped me practice using R for statistical analysis, model interpre
 
 ### Links
 
-<a href="PASTE_GITHUB_LINK_HERE" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
+<a href="https://github.com/Programmingcow2003/MachineLearningTetris" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
 View Code on GitHub
 </a>
 
