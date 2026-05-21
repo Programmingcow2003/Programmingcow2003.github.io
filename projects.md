@@ -127,7 +127,7 @@ This project helped me practice using R for statistical analysis, model interpre
 
 ### Links
 
-<a href="https://github.com/Programmingcow2003/TypingDataAnalysis" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
+<a href="PASTE_GITHUB_LINK_HERE" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
 View Code on GitHub
 </a>
 
@@ -191,6 +191,22 @@ This project gave me experience working with real-world visual data and applying
 
 <details>
 <summary style="font-size:24px; font-weight:bold; cursor:pointer;">Concurrency</summary>
+
+<div markdown="1" style="background:#f4f7fb; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #d9e3f0;">
+
+## River Crossing Monitor Simulation
+
+A C concurrency project that simulates a river crossing problem using pthreads and Hoare-style monitors. The system models wolves, sheep, and a boat as separate threads. The monitor controls which passengers are allowed to board so that every boat load is safe, full, and synchronized correctly.
+
+The boat can only depart with exactly three passengers, and it must avoid unsafe combinations such as two wolves with one sheep. Passenger threads wait on monitor condition variables until the boat selects a valid group, boards them, transports them across the river, and signals them to deboard. The program also ensures that the boat does not return for another trip until every passenger has left the boat.
+
+### Links
+
+<a href="https://github.com/Programmingcow2003/sheepwolf" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
+View Code on GitHub
+</a>
+
+</div>
 
 <div markdown="1" style="background:#f7f7f7; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #dddddd;">
 
