@@ -5,7 +5,9 @@ title: About Me
 
 # About Me
 
-<div markdown="1" style="background:#f4f7fb; padding:22px; border-radius:18px; margin-bottom:24px; border:1px solid #d9e3f0;">
+<div style="display:flex; align-items:center; gap:24px; background:#f4f7fb; padding:22px; border-radius:18px; margin-bottom:24px; border:1px solid #d9e3f0;">
+
+<div markdown="1" style="flex:2;">
 
 ## Hello!
 
@@ -18,6 +20,14 @@ I have experience in:
 - Software Development
 - Web Scraping
 - Machine Learning
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<img src="assets/images/profile.jpg" alt="Photo of Michael Dennis" style="max-width:220px; width:100%; border-radius:18px;">
+
+</div>
 
 </div>
 
