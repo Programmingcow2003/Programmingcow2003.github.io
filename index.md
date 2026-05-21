@@ -9,4 +9,4 @@ Hi, I’m Michael. This is my personal coding website.
 
 ## Navigation
 
-- [About Me](about.md)
+- [About Me](aboutme.md)
