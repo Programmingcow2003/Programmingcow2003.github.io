@@ -56,7 +56,7 @@ I especially enjoy projects that solve real-world problems and turn data into me
 
 <div style="flex:1; text-align:center;">
 
-<img src="Propeller.jpg"  style="max-width:220px; width:100%; border-radius:18px;">
+<img src="Propeller.JPG"  style="max-width:220px; width:100%; border-radius:18px;">
 
 </div>
 
