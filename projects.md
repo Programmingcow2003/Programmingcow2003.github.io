@@ -52,7 +52,7 @@ This PDF gives a more detailed explanation of the shopping center / online store
 </p>
 
 <iframe 
-    src="online-store-description.pdf" 
+    src="Course_project_phase2_Report_Michael_Dennis___Luke_Meyer__2_.pdf" 
     width="100%" 
     height="600px" 
     style="border:1px solid #ccc; border-radius:10px;">
