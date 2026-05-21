@@ -200,6 +200,21 @@ A C concurrency project that simulates a river crossing problem using pthreads a
 
 The boat can only depart with exactly three passengers, and it must avoid unsafe combinations such as two wolves with one sheep. Passenger threads wait on monitor condition variables until the boat selects a valid group, boards them, transports them across the river, and signals them to deboard. The program also ensures that the boat does not return for another trip until every passenger has left the boat.
 
+### Technologies
+
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">C</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">pthreads</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Hoare Monitors</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Condition Variables</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Synchronization</span>
+<span style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3;">Makefile</span>
+
+### What I Learned
+
+This project helped me understand how to coordinate multiple concurrent threads safely using monitor-based synchronization. I learned how to design condition variables around specific program states, prevent unsafe thread interactions, avoid race conditions, and reason about progress in a system where many threads are competing for shared resources.
+
+I also gained experience breaking a concurrent program into separate responsibilities: thread behavior, monitor logic, shared state, initialization, and cleanup.
+
 ### Links
 
 <a href="https://github.com/Programmingcow2003/sheepwolf" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
