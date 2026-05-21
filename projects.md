@@ -79,7 +79,7 @@ This page organizes my projects by category. Each section includes a brief descr
 
 <details open class="project-category">
 <summary>
-  <span class="project-category-title">🌐 Web Development</span>
+  <span class="project-category-title">Web Development</span>
   <span class="project-category-hint">Click to open/close</span>
 </summary>
 
@@ -141,7 +141,7 @@ This PDF gives a more detailed explanation of the shopping center / online store
 
 <details class="project-category">
 <summary>
-  <span class="project-category-title">📊 Data Analysis</span>
+  <span class="project-category-title">Data Analysis</span>
   <span class="project-category-hint">Click to open/close</span>
 </summary>
 
@@ -235,7 +235,7 @@ This PDF gives a more detailed explanation of the typing speed and accuracy anal
 
 <details class="project-category">
 <summary>
-  <span class="project-category-title">🤖 Machine Learning</span>
+  <span class="project-category-title">Machine Learning</span>
   <span class="project-category-hint">Click to open/close</span>
 </summary>
 
@@ -335,7 +335,7 @@ This PDF gives a more detailed explanation of the Tetris machine learning projec
 
 <details class="project-category">
 <summary>
-  <span class="project-category-title">⚙️ Concurrency</span>
+  <span class="project-category-title">Concurrency</span>
   <span class="project-category-hint">Click to open/close</span>
 </summary>
 
@@ -410,7 +410,7 @@ This project helped me understand how programs behave when multiple operations h
 
 <details class="project-category">
 <summary>
-  <span class="project-category-title">🧪 Other Projects</span>
+  <span class="project-category-title">Other Projects</span>
   <span class="project-category-hint">Click to open/close</span>
 </summary>
 
