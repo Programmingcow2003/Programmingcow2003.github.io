@@ -40,6 +40,28 @@ A database-driven online store project built with PHP and MySQL. The project inc
 
 This project helped me learn how to connect a web application to a relational database, use sessions for login state, write prepared SQL statements, and organize backend logic across multiple PHP files.
 
+<details>
+<summary style="cursor:pointer; font-size:16px; font-weight:bold;">
+▶ Click to see project PDF
+</summary>
+
+<div style="margin-top:12px; padding:15px; background:white; border-radius:12px; border:1px solid #d9e3f0;">
+
+<p>
+This PDF gives a more detailed explanation of the shopping center / online store project.
+</p>
+
+<iframe 
+    src="online-store-description.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border:1px solid #ccc; border-radius:10px;">
+</iframe>
+
+</div>
+
+</details>
+
 </div>
 
 </details>
