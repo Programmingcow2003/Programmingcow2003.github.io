@@ -54,4 +54,10 @@ I enjoy building all types of projects, although Computer Vision and Data Analyt
 
 I especially enjoy projects that solve real-world problems and turn data into meaningful insights.
 
+<div style="flex:1; text-align:center;">
+
+<img src="Propeller.jpg"  style="max-width:220px; width:100%; border-radius:18px;">
+
+</div>
+
 </div>
