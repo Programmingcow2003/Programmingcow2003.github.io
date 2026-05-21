@@ -7,8 +7,81 @@ title: Projects
 
 This page organizes my projects by category. Each section includes a brief description of the project, the technologies used, and what I learned from building it.
 
-<details open>
-<summary style="font-size:24px; font-weight:bold; cursor:pointer;">Web Development</summary>
+<style>
+.project-category {
+  margin: 22px 0;
+}
+
+.project-category > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 18px 22px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #f4f7fb, #e8f0fb);
+  border: 1px solid #cfd8e3;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.project-category > summary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  background: linear-gradient(135deg, #eef5ff, #dfeafa);
+}
+
+.project-category > summary::-webkit-details-marker {
+  display: none;
+}
+
+.project-category-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #26364a;
+}
+
+.project-category-hint {
+  font-size: 14px;
+  color: #5f6f82;
+  font-weight: normal;
+}
+
+.project-category > summary::after {
+  content: "▸";
+  font-size: 22px;
+  color: #5f6f82;
+  transition: transform 0.2s ease;
+  margin-left: 16px;
+}
+
+.project-category[open] > summary::after {
+  transform: rotate(90deg);
+}
+
+@media (max-width: 650px) {
+  .project-category > summary {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .project-category-title {
+    font-size: 21px;
+  }
+
+  .project-category-hint {
+    font-size: 13px;
+  }
+}
+</style>
+
+<details open class="project-category">
+<summary>
+  <span class="project-category-title">🌐 Web Development</span>
+  <span class="project-category-hint">Click to open/close</span>
+</summary>
 
 <div markdown="1" style="background:#f4f7fb; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #d9e3f0;">
 
@@ -66,8 +139,11 @@ This PDF gives a more detailed explanation of the shopping center / online store
 
 </details>
 
-<details>
-<summary style="font-size:24px; font-weight:bold; cursor:pointer;">Data Analysis</summary>
+<details class="project-category">
+<summary>
+  <span class="project-category-title">📊 Data Analysis</span>
+  <span class="project-category-hint">Click to open/close</span>
+</summary>
 
 <div markdown="1" style="background:#f7f7f7; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #dddddd;">
 
@@ -157,8 +233,11 @@ This PDF gives a more detailed explanation of the typing speed and accuracy anal
 
 </details>
 
-<details>
-<summary style="font-size:24px; font-weight:bold; cursor:pointer;">Machine Learning</summary>
+<details class="project-category">
+<summary>
+  <span class="project-category-title">🤖 Machine Learning</span>
+  <span class="project-category-hint">Click to open/close</span>
+</summary>
 
 <div markdown="1" style="background:#f4f7fb; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #d9e3f0;">
 
@@ -254,8 +333,11 @@ This PDF gives a more detailed explanation of the Tetris machine learning projec
 
 </details>
 
-<details>
-<summary style="font-size:24px; font-weight:bold; cursor:pointer;">Concurrency</summary>
+<details class="project-category">
+<summary>
+  <span class="project-category-title">⚙️ Concurrency</span>
+  <span class="project-category-hint">Click to open/close</span>
+</summary>
 
 <div markdown="1" style="background:#f4f7fb; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #d9e3f0;">
 
@@ -326,8 +408,11 @@ This project helped me understand how programs behave when multiple operations h
 
 </details>
 
-<details>
-<summary style="font-size:24px; font-weight:bold; cursor:pointer;">Other Projects</summary>
+<details class="project-category">
+<summary>
+  <span class="project-category-title">🧪 Other Projects</span>
+  <span class="project-category-hint">Click to open/close</span>
+</summary>
 
 <div markdown="1" style="background:#f4f7fb; padding:20px; border-radius:18px; margin-top:16px; margin-bottom:24px; border:1px solid #d9e3f0;">
 
