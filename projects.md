@@ -282,9 +282,18 @@ I also gained experience breaking a concurrent program into separate responsibil
 
 ### Links
 
-<a href="PASTE_GITHUB_LINK_HERE" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
+<a href="https://github.com/Programmingcow2003/sheepwolf" target="_blank" style="display:inline-block; background:white; padding:8px 14px; border-radius:20px; margin:5px; border:1px solid #cfd8e3; text-decoration:none;">
 View Code on GitHub
 </a>
+
+<div style="flex:1; text-align:center;">
+
+<img src="DennisPhoto.jpg" style="max-width:220px; width:100%; border-radius:18px; border:1px solid #d9e3f0;">
+
+<p style="font-size:14px; color:#666; margin-top:8px;">
+</p>
+
+</div>
 
 </div>
 
